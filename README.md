@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome&fontAlign=50&rotate=13&fontAlignY=25&desc=Ellie's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&text=Welcome&fontAlign=70&rotate=13&fontAlignY=25&desc=Ellie's%20GitHub&descAlign=70.&descAlignY=44)
 <div align=center>
 
 # Hi I'm Ellie☺️
