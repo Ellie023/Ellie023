@@ -14,5 +14,5 @@
 
 # :mailbox_with_mail: Contacts
 [![Velog_Badge](http://img.shields.io/badge/Vlog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@yelin23)](https://velog.io/@yelin23/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sylin0820@ewhain.net)](mailto:sylin0820@ewhain.net)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sylin0820@ewhain.net)](mailto:elliesong23@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yelin820@naver.com)](mailto:yelin820@naver.com)
