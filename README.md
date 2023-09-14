@@ -1,8 +1,11 @@
+##Hi I'm Ellie
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yelin23)](https://solved.ac/yelin23/)
 <!--
 **yelin56/yelin56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you star0
+ed:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
