@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yelin56](https://solved.ac/yelin56)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yelin56)](https://solved.ac/yelin56/)
 <!--
 **yelin56/yelin56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
